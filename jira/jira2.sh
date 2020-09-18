@@ -6,4 +6,4 @@ curl \
    -X PUT \
    --data @data.json \
    -H "Content-Type: application/json" \
-   http://localhost:8090/rest/api/2/issue/$3
+   http://$3/rest/api/2/issue/$4
