@@ -1,5 +1,6 @@
 {
     "fields" : {
-        "customfield_10200" : "data"
+        "customfield_10200" : "git"
+	"customfield_10300" : "jenkins",
     }
 }
